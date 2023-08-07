@@ -1,6 +1,6 @@
 # Restaurant Recommendation System
 
-![Logo](logo-black.png)
+![Logo](logo-black.png | width=50)
 
 ## Overview
 The Restaurant Recommendation System leverages Yelp's extensive data to provide personalized restaurant recommendations. Utilizing various filtering methods and a hybrid approach, the system aims to enhance user engagement with Yelp by offering accurate recommendations.
