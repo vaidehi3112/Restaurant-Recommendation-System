@@ -15,8 +15,6 @@ The Restaurant Recommendation System leverages Yelp's extensive data to provide 
 
 [You can view this diagram in a new tab.](https://showme.redstarplugin.com/d/p1FLYIEE)
 
-[You can edit this diagram online if you want to make any changes.](https://showme.redstarplugin.com/s/pNE1V3fR)
-
 ## Authors
 - Vaidehi Parikh (parikh.v@northeastern.edu)
 - Shaival Shah (shah.shaivals@northeastern.edu)
